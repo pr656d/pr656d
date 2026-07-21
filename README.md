@@ -4,15 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=F2709C&background=00000000&center=true&vCenter=true&width=500&lines=Lead+Android+Engineer+%40+Simform;DevOps+%26+Self-Hosting+Enthusiast;AI+Agentic+Orchestrator;Neovim+%26+Tmux+Wrangler" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/pr656d">
-    <img src="https://img.shields.io/github/followers/pr656d?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/pr656d?tab=repositories">
-    <img src="https://img.shields.io/github/stars/pr656d?style=for-the-badge&color=FF69B4&logo=github" alt="GitHub stars"/>
-  </a>
-</p>
-
 ---
 
 ### 📖 About Me
