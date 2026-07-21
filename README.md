@@ -12,6 +12,7 @@ I am a **Lead Software Engineer** specializing in native Android development, sy
 
 * 🌐 **Personal Space**: I write, think, and share updates on my dot-grid notebook site at [premp.in](https://premp.in) (check out my [/now page](https://premp.in/now) to see what I'm currently hacking on).
 * 🤖 **AI Orchestration**: I build and maintain custom agentic control planes (`tmux` + `git worktrees` + multi-model routing wrappers) to run parallel AI-assisted developer threads.
+* 💻 **Disposable by Design**: I'm a big believer in a hardware setup that is disposable by design. If my current machine crashes, I can rebuild my entire workflow, applications, and configurations right away on a new machine using my automated dotfiles.
 * 👨‍👩‍👧 **Off-screen**: I'm dad to a wonderful girl, Nyomi. When I'm not coding or hanging out with her, you can find me wrenching on or riding my Royal Enfield Continental GT 650.
 
 ---
