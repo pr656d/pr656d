@@ -38,9 +38,5 @@ I am a **Lead Software Engineer** specializing in native Android development, sy
 
 ### 📫 Let's Connect
 
-| Platform | Details |
-| :--- | :--- |
-| ✉️ **Email** | [hello@premp.in](mailto:hello@premp.in) |
-| 💼 **LinkedIn** | [linkedin.com/in/pr656d](https://www.linkedin.com/in/pr656d/) |
-| 🔗 **Website** | [premp.in](https://premp.in) |
+📨 **[Email](mailto:hello@premp.in)** &nbsp;•&nbsp; 🤝 **[LinkedIn](https://www.linkedin.com/in/pr656d/)** &nbsp;•&nbsp; 🌐 **[Website](https://premp.in)**
 
