@@ -38,15 +38,9 @@ I am a **Lead Software Engineer** specializing in native Android development, sy
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="mailto:hello@premp.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pr656d/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://premp.in">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=chrome&logoColor=white" />
-  </a>
-</p>
+| Platform | Details |
+| :--- | :--- |
+| ✉️ **Email** | [hello@premp.in](mailto:hello@premp.in) |
+| 💼 **LinkedIn** | [linkedin.com/in/pr656d](https://www.linkedin.com/in/pr656d/) |
+| 🔗 **Website** | [premp.in](https://premp.in) |
 
