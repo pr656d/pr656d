@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="28" role="img" aria-label="LOVABLE">
+  <title>LOVABLE</title>
+  <g shape-rendering="crispEdges">
+    <rect width="112" height="28" fill="#E52E5E"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxvdmFibGU8L3RpdGxlPjxwYXRoIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTcuMDgyIDBjMy45MSAwIDcuMDgxIDMuMTc5IDcuMDgxIDcuMXYyLjdoMi4zNTdjMy45MSAwIDcuMDgyIDMuMTc4IDcuMDgyIDcuMSAwIDMuOTIzLTMuMTcgNy4xLTcuMDgyIDcuMUgwVjcuMUMwIDMuMTggMy4xNyAwIDcuMDgyIDB6Ij48L3BhdGg+PC9zdmc+"/>
+    <text transform="scale(.1)" x="650" y="175" textLength="620" font-weight="bold">LOVABLE</text>
+  </g>
+</svg>
