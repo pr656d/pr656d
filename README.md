@@ -29,13 +29,6 @@ I am a **Lead Software Engineer** specializing in native Android development, sy
 
 ---
 
-### 📦 Open Source Showcase
-
-* **[agy-swap](https://github.com/pr656d/agy-swap)**: Multi-account switcher TUI for Antigravity CLI (agy) to manage accounts and monitor Gemini quota.
-* **[SSAndroidNeumorphicKit](https://github.com/SimformSolutionsPvtLtd/SSAndroidNeumorphicKit)**: A popular neumorphic UI library for Android built in Kotlin to create sleek, modern soft-ui components.
-
----
-
 
 ### 📫 Let's Connect
 
