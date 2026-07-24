@@ -1,8 +1,7 @@
-# Graph Report - graphify-init-pr-20260724-132617  (2026-07-24)
+# Graph Report - .  (2026-07-24)
 
 ## Corpus Check
-- 1 files · ~3,453 words
-- Verdict: corpus is large enough that graph structure adds value.
+- cluster-only mode — file stats not available
 
 ## Summary
 - 5 nodes · 4 edges · 1 communities
@@ -10,12 +9,12 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `c655f759`
+- Built from commit: `2ddf73f5`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
-- [[_COMMUNITY_Community 0|Community 0]]
+- [[_COMMUNITY_Personal Profile README|Personal Profile README]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `👋 Hi, I'm Prem Patel (`pr656d`)` - 4 edges
@@ -31,9 +30,9 @@
 
 ## Communities (1 total, 0 thin omitted)
 
-### Community 0 - "Community 0"
+### Community 0 - "Personal Profile README"
 Cohesion: 0.40
-Nodes (4): 📖 About Me, 👋 Hi, I'm Prem Patel (`pr656d`), 📫 Let's Connect, 🧰 Tech Stack & Tools
+Nodes (4): 👋 Hi, I'm Prem Patel (`pr656d`), 📖 About Me, 🧰 Tech Stack & Tools, 📫 Let's Connect
 
 ## Knowledge Gaps
 - **3 isolated node(s):** `📖 About Me`, `🧰 Tech Stack & Tools`, `📫 Let's Connect`

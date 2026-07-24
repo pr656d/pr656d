@@ -1,0 +1,44 @@
+{
+  "communities": {
+    "0": [
+      "readme",
+      "readme_hi_i_m_prem_patel_pr656d",
+      "readme_about_me",
+      "readme_tech_stack_tools",
+      "readme_let_s_connect"
+    ]
+  },
+  "cohesion": {
+    "0": 0.4
+  },
+  "gods": [
+    {
+      "id": "readme_hi_i_m_prem_patel_pr656d",
+      "label": "👋 Hi, I'm Prem Patel (`pr656d`)",
+      "degree": 4
+    },
+    {
+      "id": "readme_about_me",
+      "label": "📖 About Me",
+      "degree": 1
+    },
+    {
+      "id": "readme_tech_stack_tools",
+      "label": "🧰 Tech Stack & Tools",
+      "degree": 1
+    },
+    {
+      "id": "readme_let_s_connect",
+      "label": "📫 Let's Connect",
+      "degree": 1
+    }
+  ],
+  "surprises": [],
+  "questions": [
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `📖 About Me`, `🧰 Tech Stack & Tools`, `📫 Let's Connect` to the rest of the system?",
+      "why": "3 weakly-connected nodes found - possible documentation gaps or missing edges."
+    }
+  ]
+}
