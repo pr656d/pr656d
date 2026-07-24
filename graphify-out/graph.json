@@ -1,0 +1,101 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 0,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "\ud83d\udc4b Hi, I'm Prem Patel (`pr656d`)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_hi_i_m_prem_patel_pr656d",
+      "community": 0,
+      "norm_label": "\ud83d\udc4b hi, i'm prem patel (`pr656d`)"
+    },
+    {
+      "label": "\ud83d\udcd6 About Me",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "readme_about_me",
+      "community": 0,
+      "norm_label": "\ud83d\udcd6 about me"
+    },
+    {
+      "label": "\ud83e\uddf0 Tech Stack & Tools",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "readme_tech_stack_tools",
+      "community": 0,
+      "norm_label": "\ud83e\uddf0 tech stack & tools"
+    },
+    {
+      "label": "\ud83d\udceb Let's Connect",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "readme_let_s_connect",
+      "community": 0,
+      "norm_label": "\ud83d\udceb let's connect"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme",
+      "target": "readme_hi_i_m_prem_patel_pr656d",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "readme_hi_i_m_prem_patel_pr656d",
+      "target": "readme_about_me",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "readme_hi_i_m_prem_patel_pr656d",
+      "target": "readme_let_s_connect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "readme_hi_i_m_prem_patel_pr656d",
+      "target": "readme_tech_stack_tools",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "c655f7593348cb80cd59f5d6c677b9c4e5e25398"
+}
